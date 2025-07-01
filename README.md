@@ -1,5 +1,7 @@
 # Telegram-DataSearch-Engine
 
+This is made for home use and local use only.
+
 Make sure you have python and GO lang installed
 
 how to make a telegram bot, contact @BotFather on telegram and request to make a new bot. then after you made your bot take the token and do what is under this
